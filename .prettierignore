@@ -1,0 +1,8 @@
+.next
+out
+coverage
+storybook-static
+playwright-report
+test-results
+package-lock.json
+src/components/ui
